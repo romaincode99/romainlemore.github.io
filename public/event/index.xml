@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lemore Romain website</title>
-    <link>http://localhost:1313/event/</link>
-      <atom:link href="http://localhost:1313/event/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://romainLemore.com/event/</link>
+      <atom:link href="https://romainLemore.com/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Lemore Romain website</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_982c5d63a71b2961.png</url>
+      <url>https://romainLemore.com/media/icon_hu_982c5d63a71b2961.png</url>
       <title>Lemore Romain website</title>
-      <link>http://localhost:1313/event/</link>
+      <link>https://romainLemore.com/event/</link>
     </image>
     
     <item>
       <title>Conférence sur l&#39;IA</title>
-      <link>http://localhost:1313/event/toto/</link>
+      <link>https://romainLemore.com/event/toto/</link>
       <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/toto/</guid>
+      <guid>https://romainLemore.com/event/toto/</guid>
       <description></description>
     </item>
     
