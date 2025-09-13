@@ -1,0 +1,27 @@
+{
+  "name": "hugo-blox-academic-cv-starter",
+  "version": "1.0.0",
+  "private": true,
+  "packageManager": "pnpm@10.14.0",
+  "description": "Academic CV starter template for Hugo Blox with Tailwind CSS v4",
+  "scripts": {
+    "dev": "hugo server --disableFastRender",
+    "build": "hugo --minify"
+  },
+  "author": "",
+  "license": "",
+  "devDependencies": {
+    "@awmottaz/prettier-plugin-void-html": "~1.8.0",
+    "@tailwindcss/cli": "~4.1.0",
+    "@tailwindcss/typography": "~0.5.16",
+    "prettier": "~3.5.3",
+    "prettier-plugin-go-template": "~0.0.15",
+    "tailwindcss": "^4.1.12"
+  },
+  "dependencies": {
+    "@alpinejs/focus": "~3.14.9",
+    "@alpinejs/persist": "~3.14.9",
+    "@hotwired/turbo": "~8.0.13",
+    "alpinejs": "~3.14.9"
+  }
+}
