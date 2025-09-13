@@ -14,7 +14,7 @@
     "@awmottaz/prettier-plugin-void-html": "~1.8.0",
     "@tailwindcss/cli": "~4.1.0",
     "@tailwindcss/typography": "~0.5.16",
-    "hugo-bin": "^0.147.0",
+    "hugo-bin": "^0.148.0",
     "prettier": "~3.5.3",
     "prettier-plugin-go-template": "~0.0.15",
     "tailwindcss": "^4.1.12"
