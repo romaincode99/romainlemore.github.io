@@ -3,7 +3,7 @@ version: 2.1
 jobs:
   build:
     docker:
-      - image: circleci/node:latest  # On peut utiliser node ou hugo directement via apt
+      - image: klakegg/hugo:0.116.0-ext-alpine  # On peut utiliser node ou hugo directement via apt
     steps:
       - checkout
 
