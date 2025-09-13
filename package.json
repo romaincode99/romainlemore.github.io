@@ -37,7 +37,7 @@
   },
   "homepage": "https://github.com/romaincode99/myWebSite#readme",
   "scripts": {
-   "prebuild": "mkdir -p public/media && cp -R assets/media/stacked-peaks.svg public/media/stacked-peaks.svg",
+   "check-hugo": "hugo version",
    "build": "hugo",
    "create": "hugo new",
    "serve": "hugo server"
