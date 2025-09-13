@@ -37,7 +37,7 @@
   },
   "homepage": "https://github.com/romaincode99/myWebSite#readme",
   "scripts": {
-   "build": "npx hugo",
+   "build": "hugo",
    "create": "hugo new",
    "serve": "hugo server"
    }
