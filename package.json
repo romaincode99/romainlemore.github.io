@@ -9,11 +9,12 @@
     "build": "hugo --minify"
   },
   "author": "",
-  "license": "",
+  "license": "ISC",
   "devDependencies": {
     "@awmottaz/prettier-plugin-void-html": "~1.8.0",
     "@tailwindcss/cli": "~4.1.0",
     "@tailwindcss/typography": "~0.5.16",
+    "hugo-bin": "^0.147.0",
     "prettier": "~3.5.3",
     "prettier-plugin-go-template": "~0.0.15",
     "tailwindcss": "^4.1.12"
@@ -23,5 +24,21 @@
     "@alpinejs/persist": "~3.14.9",
     "@hotwired/turbo": "~8.0.13",
     "alpinejs": "~3.14.9"
-  }
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romaincode99/myWebSite.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/romaincode99/myWebSite/issues"
+  },
+  "homepage": "https://github.com/romaincode99/myWebSite#readme",
+  "scripts": {
+   "build": "hugo",
+   "create": "hugo new",
+   "serve": "hugo server"
+   }
 }
