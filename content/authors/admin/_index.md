@@ -55,7 +55,7 @@ profiles:
 interests:
   - Numerical simulation
   - Fluid-structure interaction
-  - Applications in MRI mechanisms
+  - Bloch equations for MRI signal simulations
 
 education:
   - area: CIFRE PhD in Applied Mathematics (Ongoing)
@@ -93,7 +93,7 @@ education:
 ---
 ## About Me
 
-I'm Romain Lemore, a PhD student at [Inria Paris](https://www.inria.fr/en), in collaboration with [CASIS](https://www.casis.fr/fr/casis-cardiac-simulation-imaging-software/) a company spetialized in cardiovascular data analysis, particularly MRI. I work within the [COMMEDIA team](https://team.inria.fr/commedia/), wich focuses on the numerical simulation of biofluids. My reasearch is supervised by [Miguel Fernandez](https://team.inria.fr/commedia/fernandez/) and [Damiano Lombardi](https://team.inria.fr/commedia/lombardi/). My work focuses on reconstructing blood flow within pathological aortas, aiming to determine biomarkers that can assist in the diagnostic of aneuvrysms. The reconstruction is based on 4D-Flow MRI data wich, depite its good acuracy, cannot be used directly for certain biomarkers due to the noise.
+I'm Romain Lemore, a PhD student at [Inria Paris](https://www.inria.fr/en), in collaboration with [CASIS](https://www.casis.fr/fr/casis-cardiac-simulation-imaging-software/) a company specialized in cardiovascular data analysis, particularly MRI. I work within the [COMMEDIA team](https://team.inria.fr/commedia/), which focuses on the numerical simulation of biofluids. My research is supervised by [Miguel Fernandez](https://team.inria.fr/commedia/fernandez/) and [Damiano Lombardi](https://team.inria.fr/commedia/lombardi/). My work focuses on reconstructing blood flow within pathological aortas, aiming to determine biomarkers that can assist in the diagnosis of aneurysms. This reconstruction relies on 4D-Flow MRI data which, despite its good accuracy, cannot be used directly for certain biomarkers due to noise. To address this, I develop a data assimilation method based on unique continuation to recover cleaner flow fields. As part of this work, I have also investigated the Bloch equations to simulate the MRI signal and generate synthetic data, allowing me to validate my reconstruction pipeline.
 
 #### Contact information:
 - [Centre Inria Paris](https://maps.app.goo.gl/zAusDrepoUfcsQ9K7), Office B405  
