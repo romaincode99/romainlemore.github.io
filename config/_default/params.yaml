@@ -14,7 +14,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
+    description: 'PhD student at Inria Paris, working on blood flow reconstruction in pathological aortas using data assimilation and 4D-Flow MRI.'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
